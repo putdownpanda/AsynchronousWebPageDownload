@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsynchronousWebPageDownload", "AsynchronousWebPageDownload\AsynchronousWebPageDownload.csproj", "{DBAA93B4-BC14-43B7-999C-1AE58DBFBB1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsynchronousWebPageDownload.Tests", "AsynchronousWebPageDownloadTests\AsynchronousWebPageDownload.Tests.csproj", "{3003536C-76A0-480B-8BE3-D4A40150149C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBAA93B4-BC14-43B7-999C-1AE58DBFBB1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBAA93B4-BC14-43B7-999C-1AE58DBFBB1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBAA93B4-BC14-43B7-999C-1AE58DBFBB1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBAA93B4-BC14-43B7-999C-1AE58DBFBB1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3003536C-76A0-480B-8BE3-D4A40150149C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3003536C-76A0-480B-8BE3-D4A40150149C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3003536C-76A0-480B-8BE3-D4A40150149C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3003536C-76A0-480B-8BE3-D4A40150149C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {117ACCE1-2741-4F55-9DB1-3FC003818EA3}
+	EndGlobalSection
+EndGlobal
